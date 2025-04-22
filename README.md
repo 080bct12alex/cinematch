@@ -19,7 +19,7 @@ CineMatch is a web-based application designed to recommend movies based on user 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/cinematch.git
+   git clone [https://github.com/yourusername/cinematch.git](https://github.com/080bct12alex/cinematch.git)
 
 2. Install required dependencies:
      pip install streamlit requests pandas streamlit-javascript python-lzma
