@@ -24,27 +24,26 @@ CineMatch is a web-based application designed to recommend movies based on user 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/080bct12alex/cinematch.git
+ -  git clone https://github.com/080bct12alex/cinematch.git
 
 2. Install required dependencies:
-     pip install streamlit requests pandas streamlit-javascript python-lzma
+  -   pip install streamlit requests pandas streamlit-javascript python-lzma
 
 3. Run the application:
-    streamlit run app.py
+  -  streamlit run app.py
 
 Usage
-Search for Movies: Use the search box to find your favorite movies
-Get Recommendations: Click the "Get Recommendations" button to see similar movies
-View Details: Expand sections to view movie overviews and trailers
-Filter Results: Use sidebar filters to refine movie selections by year, genre, and rating
+- Search for Movies: Use the search box to find your favorite movies
+- Get Recommendations: Click the "Get Recommendations" button to see similar movies
+- View Details: Expand sections to view movie overviews and trailers
+- Filter Results: Use sidebar filters to refine movie selections by year, genre, and rating
 
 
 
 Data Sources
-TMDB API: For movie details, posters, and trailers
-Precomputed Data: Movie list and similarity scores stored in movie_list.pkl and similarity.xz
-Streamlit: For enabling the creation of a powerful web interface
-Python Libraries: Including requests, pandas, and lzma for data handling
-API Key
-To use this application, you need a TMDB API key. You can obtain one for free by signing up at TMDB.
+- TMDB API: For movie details, posters, and trailers
+- Precomputed Data: Movie list and similarity scores stored in movie_list.pkl and similarity.xz
+- Streamlit: For enabling the creation of a powerful web interface
+- Python Libraries: Including requests, pandas, and lzma for data handling
+- API Key :  To use this application, you need a TMDB API key. You can obtain one for free by signing up at TMDB.
 
